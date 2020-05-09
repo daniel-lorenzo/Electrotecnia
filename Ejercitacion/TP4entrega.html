@@ -13393,10 +13393,10 @@ Q = 2467.92 VAr
 
 
 
-<div id="1f6be745-e19e-4a81-9dd1-8a99061b08cb"></div>
+<div id="a53cad00-46c3-4160-bd9e-a6217c99fb53"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#1f6be745-e19e-4a81-9dd1-8a99061b08cb');
+var element = $('#a53cad00-46c3-4160-bd9e-a6217c99fb53');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -14304,11 +14304,11 @@ P_1 = P_2 \\
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Entonces
-$$\begin{align}
- | I_2 | &amp;= | I_1 | {\cos \varphi_1 \over \cos \varphi_2} \\
- | I_2 | &amp;= | I_1 | {\cos \varphi_1 \over \mathrm{fp} } \\
+$$\begin{array}{l}
+ | I_2 | &amp;= \displaystyle | I_1 | {\cos \varphi_1 \over \cos \varphi_2} \\
+ | I_2 | &amp;= \displaystyle | I_1 | {\cos \varphi_1 \over \mathrm{fp} } \\
  |I_2| &amp;= 9,00 \, \mathrm{A}
-\end{align}$$</p>
+\end{array}$$</p>
 
 </div>
 </div>
@@ -14350,6 +14350,31 @@ $$ S_2 = 809,90 + j392,25 \, \mathrm{VA} $$
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Luego
 $$ Q_2 = 392,25 \, \mathrm{VAr} $$</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><strong>Cálculo de $Q_C$</strong>
+$$ Q_C = Q_1 - Q_2 = 106,76 \, \mathrm{VAr} $$</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+$$ Q_C = \frac{U^2}{X_C} = \frac{U^2}{ 1 \over \omega C } $$
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><strong>Entonces</strong>
+$$ C = \frac{Q_C}{2 \pi f U^2} = 33,98 \, \mu \mathrm{F} $$</p>
 
 </div>
 </div>
@@ -14453,6 +14478,9 @@ $$ Q_2 = 392,25 \, \mathrm{VAr} $$</p>
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;P2 = </span><span class="si">%.2f</span><span class="s1"> W&#39;</span><span class="o">%</span><span class="k">P2</span>)
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Q2 = </span><span class="si">%.2f</span><span class="s1"> VAr&#39;</span><span class="o">%</span><span class="p">(</span><span class="nb">abs</span><span class="p">(</span><span class="n">Q2</span><span class="p">)))</span>
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;---------------------------------------&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Qc = </span><span class="si">%.2f</span><span class="s1"> VAr&#39;</span><span class="o">%</span><span class="k">Qc</span>)
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;C = </span><span class="si">%.2f</span><span class="s1"> uF&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">C</span><span class="o">*</span><span class="mf">1e6</span><span class="p">)</span> <span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;---------------------------------------&#39;</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -14485,6 +14513,9 @@ S2 = (899.89 &lt; 25.84°) VA
 S2 = 809.90+392.25j VA
 P2 = 809.90 W
 Q2 = 392.25 VAr
+---------------------------------------
+Qc = 106.76 VAr
+C = 33.98 uF
 ---------------------------------------
 </pre>
 </div>
@@ -14564,10 +14595,10 @@ Q2 = 392.25 VAr
 
 
 
-<div id="92b0b7d7-eb24-4e4e-bd0a-5ed9265b1fa0"></div>
+<div id="d24dcf47-7d78-4e9e-801a-f17e50b324d0"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#92b0b7d7-eb24-4e4e-bd0a-5ed9265b1fa0');
+var element = $('#d24dcf47-7d78-4e9e-801a-f17e50b324d0');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
