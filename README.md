@@ -5,7 +5,7 @@ __Alumno:__ Daniel Antonio Lorenzo
 <img src="img/electro.jpg">
 
 __Descripción:__ prácticas realizadas por mi durante el curso de electrotecnia en la UNLZ - FI.   
-Se ofrece libremente, sin garantía de la exactitud de lo aquí expuesto.
+Se ofrece libremente, sin garantía.
 
 ## índice
 
@@ -26,7 +26,7 @@ Se ofrece libremente, sin garantía de la exactitud de lo aquí expuesto.
 
 [TP5 - Modelo de parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)
 
-### Ejercicios y ejemplos del libro, Principios de circuitos eléctricos
+### Ejercicios y ejemplos del libros
 [Senoides y fasores 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores1.ipynb)
 
 [Senoides y fasores 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores2.ipynb)
@@ -48,3 +48,7 @@ Se ofrece libremente, sin garantía de la exactitud de lo aquí expuesto.
 [Redes en escalera](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Redes%20en%20escalera.ipynb)
 
 [Thevenin 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Thevenin1.ipynb)
+
+## Bibliografía
+* Principios de circuitos eléctricos, 3ra. edición. McGraw-Hill - Alexander - Sadiku
+* Introducción al análisis de circuitos 12da. edición. Pearson - Boylestad
