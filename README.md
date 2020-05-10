@@ -10,9 +10,9 @@ Se ofrece libremente, sin garantía.
 ## índice
 
 ### Trabajos prácticos:
-[TP1 - Ejercicios de repaso](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/Ejercicio_repaso.ipynb)
+* [TP1 - Ejercicios de repaso](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/Ejercicio_repaso.ipynb)
 
-[TP2 Conplejos - Impedancia Compleja - Ejercicios de CA -Dominio de la frecuencia](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP2.ipynb)
+* [TP2 Conplejos - Impedancia Compleja - Ejercicios de CA -Dominio de la frecuencia](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP2.ipynb)
 
 [TP3 - Thevenin](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP3.ipynb)
 
