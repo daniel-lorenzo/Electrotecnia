@@ -17,9 +17,9 @@ Se ofrece libremente, sin garantía.
 * [Thevenin](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/Thevenin.ipynb)
 * [TP4 - Potencia - Ejercicios de clase](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP4.ipynb)
 * [TP4 - Potencia - Ejercicios de entrega](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP4entrega.ipynb)
-* [TP5 - Modelo de parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)
+* [Modelo de parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/parcial_1modelo.ipynb)
 
-### Ejercicios y ejemplos del libros
+### Ejercicios y ejemplos del libros:
 * [Senoides y fasores 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores1.ipynb)
 * [Senoides y fasores 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores2.ipynb)
 * [Análisis nodal ca](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Analisis_Nodal_ca.ipynb)
