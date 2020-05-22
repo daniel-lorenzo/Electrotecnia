@@ -22,7 +22,7 @@ Se ofrece libremente, sin garantía.
 * [1er parcial tema A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/1parc_temaA.ipynb)
 * [TP5 - Circuitos trifásicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)
 
-### Ejercicios y ejemplos del libros:
+### Ejercicios y ejemplos de libros:
 * [Senoides y fasores 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores1.ipynb)
 * [Senoides y fasores 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores2.ipynb)
 * [Análisis nodal ca](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Analisis_Nodal_ca.ipynb)
