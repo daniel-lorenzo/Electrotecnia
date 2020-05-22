@@ -20,6 +20,7 @@ Se ofrece libremente, sin garantía.
 * [Modelo de 1er parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/parcial_1modelo.ipynb)
 * [Modelo de 1er parcial 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/pm1.ipynb)
 * [1er parcial tema A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/1parc_temaA.ipynb)
+* [TP5 - Circuitos trifásicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)
 
 ### Ejercicios y ejemplos del libros:
 * [Senoides y fasores 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores1.ipynb)
@@ -33,6 +34,8 @@ Se ofrece libremente, sin garantía.
 * [Análisis de potencia en ca](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Analisis%20de%20potencia%20de%20ca.ipynb)
 * [Redes en escalera](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Redes%20en%20escalera.ipynb)
 * [Thevenin 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Thevenin1.ipynb)
+* [Circuitos trifasicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Circuitos_trifasicos.ipynb)
+* [Potencia trifásico](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Potencia_trifasico.ipynb)
 
 ## Bibliografía
 * Principios de circuitos eléctricos, 3ra. edición. McGraw-Hill - Alexander - Sadiku
