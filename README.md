@@ -36,6 +36,10 @@ Se ofrece libremente, sin garantía.
 * [Thevenin 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Thevenin1.ipynb)
 * [Circuitos trifasicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Circuitos_trifasicos.ipynb)
 * [Potencia trifásico](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Potencia_trifasico.ipynb)
+* [Circuitos magnéticamente acoplados](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Circuitos_magneticamente_acoplados.ipynb)   
+* [Transformadores ideales](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Transformadores_ideales.ipynb)
+* [Transformadores lineales](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Transformadores_lineales.ipynb)
+* [Transformadores ejercicios](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Transformadores_ejercicios.ipynb)
 
 ## Bibliografía
 * Principios de circuitos eléctricos, 3ra. edición. McGraw-Hill - Alexander - Sadiku
