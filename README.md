@@ -20,7 +20,8 @@ Se ofrece libremente, sin garantía.
 * [Modelo de 1er parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/parcial_1modelo.ipynb)
 * [Modelo de 1er parcial 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/pm1.ipynb)
 * [1er parcial tema A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/1parc_temaA.ipynb)
-* [TP5 - Circuitos trifásicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)
+* [TP5 - Circuitos trifásicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)     
+* [TP5 - Circuitos trifásicos (Python only)](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5-2.ipynb)
 
 ### Ejercicios y ejemplos de libros:
 * [Senoides y fasores 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Senoides_y_fasores1.ipynb)
