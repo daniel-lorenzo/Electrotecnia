@@ -1,0 +1,3651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256.91043mm"
+   height="228.30751mm"
+   version="1.2"
+   id="svg3311"
+   sodipodi:docname="tp4comp.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3315">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Qt Svg Document</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     id="namedview3313"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.43735988"
+     inkscape:cx="734.16707"
+     inkscape:cy="355.51951"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3311" />
+  <title
+     id="title2085">Qt Svg Document</title>
+  <desc
+     id="desc2087">Generated with Qt</desc>
+  <defs
+     id="defs2089" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2107"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2145"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2187"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2229"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2271"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2313"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2355"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2423"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2467"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2511"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2541"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2577"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2613"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2645"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2673"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2701"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2723"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2745"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2767"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g2785"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3159"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3161"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3167"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3169"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3175"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3195"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3197"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3213"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3215"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3231"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3233"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3239"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3241"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3247"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3249"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3271"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3273"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3295"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3297"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     id="g3303"
+     font-style="normal"
+     font-weight="400"
+     font-size="10"
+     transform="translate(-4.5,5.5)" />
+  <g
+     id="g4493"
+     transform="translate(-4.5,5.5)">
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2097"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="145,275 145,285 "
+         id="polyline2095"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2105"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="134,285 156,285 "
+         id="polyline2099"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="138,291 152,291 "
+         id="polyline2101"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="142,297 148,297 "
+         id="polyline2103"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2113"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="305,475 315,475 "
+         id="polyline2109"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,475 355,475 "
+         id="polyline2111"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2121"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,475 355,475 "
+         id="polyline2115"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,475 331,471 "
+         id="polyline2117"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,475 331,479 "
+         id="polyline2119"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2143"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,444 355,444 "
+         id="polyline2123"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,484 355,484 "
+         id="polyline2125"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,444 315,484 "
+         id="polyline2127"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="355,444 355,484 "
+         id="polyline2129"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,448 351,448 "
+         id="polyline2131"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,466 351,466 "
+         id="polyline2133"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,448 319,466 "
+         id="polyline2135"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="351,448 351,466 "
+         id="polyline2137"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="324,451 333,466 "
+         id="polyline2139"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 347.035,456.562 C 343.645,453.715 339.273,452 334.5,452 c -4.773,0 -9.145,1.715 -12.535,4.562"
+         id="path2141"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2149"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="309"
+         y="500"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2147"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_B</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2155"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="305,575 315,575 "
+         id="polyline2151"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,575 355,575 "
+         id="polyline2153"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2163"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,575 355,575 "
+         id="polyline2157"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,575 331,571 "
+         id="polyline2159"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,575 331,579 "
+         id="polyline2161"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2185"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,544 355,544 "
+         id="polyline2165"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,584 355,584 "
+         id="polyline2167"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,544 315,584 "
+         id="polyline2169"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="355,544 355,584 "
+         id="polyline2171"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,548 351,548 "
+         id="polyline2173"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,566 351,566 "
+         id="polyline2175"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,548 319,566 "
+         id="polyline2177"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="351,548 351,566 "
+         id="polyline2179"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="324,551 333,566 "
+         id="polyline2181"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 347.035,556.562 C 343.645,553.715 339.273,552 334.5,552 c -4.773,0 -9.145,1.715 -12.535,4.562"
+         id="path2183"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2191"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="309"
+         y="600"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2189"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_C</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2197"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="865,415 865,405 "
+         id="polyline2193"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,355 865,365 "
+         id="polyline2195"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2205"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="865,405 865,365 "
+         id="polyline2199"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,381 861,389 "
+         id="polyline2201"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,381 869,389 "
+         id="polyline2203"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2227"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="834,405 834,365 "
+         id="polyline2207"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="874,405 874,365 "
+         id="polyline2209"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="834,405 874,405 "
+         id="polyline2211"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="834,365 874,365 "
+         id="polyline2213"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="838,401 838,369 "
+         id="polyline2215"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="856,401 856,369 "
+         id="polyline2217"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="838,401 856,401 "
+         id="polyline2219"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="838,369 856,369 "
+         id="polyline2221"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="841,396 856,387 "
+         id="polyline2223"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="m 846.562,372.965 c -2.847,3.39 -4.562,7.762 -4.562,12.535 0,4.773 1.715,9.145 4.562,12.535"
+         id="path2225"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2233"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="881"
+         y="368"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2231"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_CA</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2239"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="515,175 515,185 "
+         id="polyline2235"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,235 515,225 "
+         id="polyline2237"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2247"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="515,185 515,225 "
+         id="polyline2241"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,209 519,201 "
+         id="polyline2243"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,209 511,201 "
+         id="polyline2245"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2269"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="546,185 546,225 "
+         id="polyline2249"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="506,185 506,225 "
+         id="polyline2251"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="546,185 506,185 "
+         id="polyline2253"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="546,225 506,225 "
+         id="polyline2255"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="542,189 542,221 "
+         id="polyline2257"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="524,189 524,221 "
+         id="polyline2259"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="542,189 524,189 "
+         id="polyline2261"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="542,221 524,221 "
+         id="polyline2263"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="539,194 524,203 "
+         id="polyline2265"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="m 533.438,217.035 c 2.847,-3.39 4.562,-7.762 4.562,-12.535 0,-4.773 -1.715,-9.145 -4.562,-12.535"
+         id="path2267"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2275"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="445"
+         y="188"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2273"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_AB</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2281"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="305,115 315,115 "
+         id="polyline2277"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,115 355,115 "
+         id="polyline2279"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2289"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,115 355,115 "
+         id="polyline2283"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,115 331,111 "
+         id="polyline2285"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="339,115 331,119 "
+         id="polyline2287"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2311"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="315,84 355,84 "
+         id="polyline2291"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,124 355,124 "
+         id="polyline2293"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,84 315,124 "
+         id="polyline2295"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="355,84 355,124 "
+         id="polyline2297"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,88 351,88 "
+         id="polyline2299"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,106 351,106 "
+         id="polyline2301"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="319,88 319,106 "
+         id="polyline2303"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="351,88 351,106 "
+         id="polyline2305"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="324,91 333,106 "
+         id="polyline2307"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 347.035,96.5618 C 343.645,93.7147 339.273,92 334.5,92 c -4.773,0 -9.145,1.7148 -12.535,4.5619"
+         id="path2309"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2317"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="309"
+         y="140"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2315"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_A</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2323"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="565,475 575,475 "
+         id="polyline2319"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="625,475 615,475 "
+         id="polyline2321"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2331"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="575,475 615,475 "
+         id="polyline2325"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="599,475 591,471 "
+         id="polyline2327"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="599,475 591,479 "
+         id="polyline2329"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2353"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="575,444 615,444 "
+         id="polyline2333"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="575,484 615,484 "
+         id="polyline2335"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="575,444 575,484 "
+         id="polyline2337"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="615,444 615,484 "
+         id="polyline2339"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="579,448 611,448 "
+         id="polyline2341"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="579,466 611,466 "
+         id="polyline2343"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="579,448 579,466 "
+         id="polyline2345"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="611,448 611,466 "
+         id="polyline2347"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="584,451 593,466 "
+         id="polyline2349"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 607.035,456.562 C 603.645,453.715 599.273,452 594.5,452 c -4.773,0 -9.145,1.715 -12.535,4.562"
+         id="path2351"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2359"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="569"
+         y="500"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2357"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Amp_BC</text>
+    </g>
+    <g
+       font-size="16"
+       font-weight="630"
+       font-style="normal"
+       id="g2375"
+       style="font-style:normal;font-size:16px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="725"
+         y="70"
+         font-size="16"
+         font-weight="630"
+         font-style="normal"
+         id="text2361"
+         style="font-style:normal;font-size:16px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;stroke:none">simulación ac</text>
+      <path
+         d="M 719,50 H 855 V 79 H 719 V 50"
+         id="path2363"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <polyline
+         points="724,84 719,79 "
+         id="polyline2365"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="859,84 724,84 "
+         id="polyline2367"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="859,84 855,79 "
+         id="polyline2369"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="859,84 859,55 "
+         id="polyline2371"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="859,55 855,50 "
+         id="polyline2373"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2383"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="725"
+         y="104"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2377"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">AC1</text>
+      <text
+         xml:space="preserve"
+         x="725"
+         y="116"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2379"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Type=const</text>
+      <text
+         xml:space="preserve"
+         x="725"
+         y="128"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2381"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Values=[50 Hz]</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2403"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="45,662 85,662 "
+         id="polyline2385"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,702 85,702 "
+         id="polyline2387"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,662 45,702 "
+         id="polyline2389"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="85,662 85,702 "
+         id="polyline2391"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="49,666 81,666 "
+         id="polyline2393"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="49,684 81,684 "
+         id="polyline2395"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="49,666 49,684 "
+         id="polyline2397"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="81,666 81,684 "
+         id="polyline2399"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="54,669 63,684 "
+         id="polyline2401"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2409"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="55,693 55,699 "
+         id="polyline2405"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="52,696 58,696 "
+         id="polyline2407"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2413"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="72,696 78,696 "
+         id="polyline2411"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2421"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="55,702 55,713 "
+         id="polyline2415"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="75,702 75,713 "
+         id="polyline2417"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 77.0346,674.562 C 73.6452,671.715 69.2729,670 64.5,670 c -4.7729,0 -9.1453,1.715 -12.5347,4.562"
+         id="path2419"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2427"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="93"
+         y="671"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2425"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Volt_AB</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2447"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="165,664 205,664 "
+         id="polyline2429"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="165,704 205,704 "
+         id="polyline2431"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="165,664 165,704 "
+         id="polyline2433"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="205,664 205,704 "
+         id="polyline2435"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="169,668 201,668 "
+         id="polyline2437"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="169,686 201,686 "
+         id="polyline2439"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="169,668 169,686 "
+         id="polyline2441"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="201,668 201,686 "
+         id="polyline2443"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="174,671 183,686 "
+         id="polyline2445"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2453"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="175,695 175,701 "
+         id="polyline2449"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="172,698 178,698 "
+         id="polyline2451"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2457"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="192,698 198,698 "
+         id="polyline2455"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2465"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="175,704 175,715 "
+         id="polyline2459"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="195,704 195,715 "
+         id="polyline2461"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 197.035,676.562 C 193.645,673.715 189.273,672 184.5,672 c -4.773,0 -9.145,1.715 -12.535,4.562"
+         id="path2463"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2471"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="213"
+         y="673"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2469"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Volt_BC</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2491"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="285,664 325,664 "
+         id="polyline2473"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="285,704 325,704 "
+         id="polyline2475"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="285,664 285,704 "
+         id="polyline2477"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="325,664 325,704 "
+         id="polyline2479"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="289,668 321,668 "
+         id="polyline2481"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="289,686 321,686 "
+         id="polyline2483"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="289,668 289,686 "
+         id="polyline2485"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="321,668 321,686 "
+         id="polyline2487"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="294,671 303,686 "
+         id="polyline2489"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2497"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="295,695 295,701 "
+         id="polyline2493"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="292,698 298,698 "
+         id="polyline2495"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2501"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="312,698 318,698 "
+         id="polyline2499"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2509"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="295,704 295,715 "
+         id="polyline2503"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="315,704 315,715 "
+         id="polyline2505"
+         style="vector-effect:none;fill:none" />
+      <path
+         d="M 317.035,676.562 C 313.645,673.715 309.273,672 304.5,672 c -4.773,0 -9.145,1.715 -12.535,4.562"
+         id="path2507"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2515"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="333"
+         y="673"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2513"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Volt_CA</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2521"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="145,235 145,217 "
+         id="polyline2517"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="145,175 145,193 "
+         id="polyline2519"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2527"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="150,187 156,187 "
+         id="polyline2523"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="153,184 153,190 "
+         id="polyline2525"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2531"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="150,223 156,223 "
+         id="polyline2529"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2539"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 145,193 c -6.627,0 -12,5.373 -12,12 0,6.627 5.373,12 12,12 6.627,0 12,-5.373 12,-12 0,-6.627 -5.373,-12 -12,-12"
+         id="path2533"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 145,204.5 c 0,-1.933 -1.567,-3.5 -3.5,-3.5 -1.933,0 -3.5,1.567 -3.5,3.5"
+         id="path2535"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 145,204.5 c 0,1.933 1.567,3.5 3.5,3.5 1.933,0 3.5,-1.567 3.5,-3.5"
+         id="path2537"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2551"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="163"
+         y="188"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2543"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">V1</text>
+      <text
+         xml:space="preserve"
+         x="163"
+         y="200"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2545"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">U=219.393 V</text>
+      <text
+         xml:space="preserve"
+         x="163"
+         y="212"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2547"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">f=50 Hz</text>
+      <text
+         xml:space="preserve"
+         x="163"
+         y="224"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2549"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Phase=0</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2557"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="245,315 245,333 "
+         id="polyline2553"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="245,375 245,357 "
+         id="polyline2555"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2563"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="250,363 256,363 "
+         id="polyline2559"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="253,366 253,360 "
+         id="polyline2561"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2567"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="250,327 256,327 "
+         id="polyline2565"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2575"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 245,357 c 6.627,0 12,-5.373 12,-12 0,-6.627 -5.373,-12 -12,-12 -6.627,0 -12,5.373 -12,12 0,6.627 5.373,12 12,12"
+         id="path2569"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 238,345.5 c 0,1.933 1.567,3.5 3.5,3.5 1.933,0 3.5,-1.567 3.5,-3.5"
+         id="path2571"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 252,345.5 c 0,-1.933 -1.567,-3.5 -3.5,-3.5 -1.933,0 -3.5,1.567 -3.5,3.5"
+         id="path2573"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2587"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="263"
+         y="328"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2579"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">V2</text>
+      <text
+         xml:space="preserve"
+         x="263"
+         y="340"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2581"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">U=219.393 V</text>
+      <text
+         xml:space="preserve"
+         x="263"
+         y="352"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2583"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">f=50 Hz</text>
+      <text
+         xml:space="preserve"
+         x="263"
+         y="364"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2585"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Phase=-120</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2593"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="45,315 45,333 "
+         id="polyline2589"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,375 45,357 "
+         id="polyline2591"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2599"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="50,363 56,363 "
+         id="polyline2595"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="53,366 53,360 "
+         id="polyline2597"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2603"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="50,327 56,327 "
+         id="polyline2601"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2611"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 45,357 c 6.6274,0 12,-5.373 12,-12 0,-6.627 -5.3726,-12 -12,-12 -6.6274,0 -12,5.373 -12,12 0,6.627 5.3726,12 12,12"
+         id="path2605"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 38,345.5 c 0,1.933 1.567,3.5 3.5,3.5 1.933,0 3.5,-1.567 3.5,-3.5"
+         id="path2607"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 52,345.5 c 0,-1.933 -1.567,-3.5 -3.5,-3.5 -1.933,0 -3.5,1.567 -3.5,3.5"
+         id="path2609"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2623"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="63"
+         y="328"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2615"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">V3</text>
+      <text
+         xml:space="preserve"
+         x="63"
+         y="340"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2617"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">U=219.393 V</text>
+      <text
+         xml:space="preserve"
+         x="63"
+         y="352"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2619"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">f=50 Hz</text>
+      <text
+         xml:space="preserve"
+         x="63"
+         y="364"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2621"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Phase=120</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2643"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="515,335 515,323 "
+         id="polyline2625"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,323 508,320 "
+         id="polyline2627"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="508,320 522,314 "
+         id="polyline2629"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="522,314 508,308 "
+         id="polyline2631"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="508,308 522,302 "
+         id="polyline2633"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="522,302 508,296 "
+         id="polyline2635"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="508,296 522,290 "
+         id="polyline2637"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="522,290 515,287 "
+         id="polyline2639"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,287 515,275 "
+         id="polyline2641"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2651"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="530"
+         y="288"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2647"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R1</text>
+      <text
+         xml:space="preserve"
+         x="530"
+         y="300"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2649"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R=15 Ohm</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2671"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="865,315 865,303 "
+         id="polyline2653"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,303 858,300 "
+         id="polyline2655"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="858,300 872,294 "
+         id="polyline2657"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="872,294 858,288 "
+         id="polyline2659"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="858,288 872,282 "
+         id="polyline2661"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="872,282 858,276 "
+         id="polyline2663"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="858,276 872,270 "
+         id="polyline2665"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="872,270 865,267 "
+         id="polyline2667"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,267 865,255 "
+         id="polyline2669"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2679"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="880"
+         y="268"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2675"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R2</text>
+      <text
+         xml:space="preserve"
+         x="880"
+         y="280"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2677"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R=15 Ohm</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2699"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="725,475 713,475 "
+         id="polyline2681"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="713,475 710,482 "
+         id="polyline2683"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="710,482 704,468 "
+         id="polyline2685"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="704,468 698,482 "
+         id="polyline2687"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="698,482 692,468 "
+         id="polyline2689"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="692,468 686,482 "
+         id="polyline2691"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="686,482 680,468 "
+         id="polyline2693"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="680,468 677,475 "
+         id="polyline2695"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="677,475 665,475 "
+         id="polyline2697"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2707"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="669"
+         y="439"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2703"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R3</text>
+      <text
+         xml:space="preserve"
+         x="669"
+         y="451"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2705"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">R=15 Ohm</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2713"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="805,475 793,475 "
+         id="polyline2709"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="757,475 745,475 "
+         id="polyline2711"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2721"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 781,475 c 0,3.314 2.686,6 6,6 3.314,0 6,-2.686 6,-6"
+         id="path2715"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 769,475 c 0,3.314 2.686,6 6,6 3.314,0 6,-2.686 6,-6"
+         id="path2717"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 757,475 c 0,3.314 2.686,6 6,6 3.314,0 6,-2.686 6,-6"
+         id="path2719"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2729"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="749"
+         y="444"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2725"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L3</text>
+      <text
+         xml:space="preserve"
+         x="749"
+         y="456"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2727"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L=47.746 mH</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2735"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="515,415 515,403 "
+         id="polyline2731"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,367 515,355 "
+         id="polyline2733"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2743"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 515,391 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2737"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 515,379 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2739"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 515,367 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2741"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2751"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="525"
+         y="368"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2747"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L1</text>
+      <text
+         xml:space="preserve"
+         x="525"
+         y="380"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2749"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L=47.746 mH</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2757"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="865,235 865,223 "
+         id="polyline2753"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,187 865,175 "
+         id="polyline2755"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2765"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 865,211 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2759"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 865,199 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2761"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+      <path
+         d="m 865,187 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6"
+         id="path2763"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2773"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="875"
+         y="188"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2769"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L2</text>
+      <text
+         xml:space="preserve"
+         x="875"
+         y="200"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2771"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L=47.746 mH</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2779"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="539,656 539,674 "
+         id="polyline2775"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="539,674 614,674 "
+         id="polyline2777"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       transform="translate(543,653)"
+       font-size="12"
+       font-weight="100"
+       font-style="normal"
+       id="g2783"
+       style="font-style:normal;font-weight:100;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="100"
+         font-style="normal"
+         id="text2781"
+         style="font-style:normal;font-weight:100;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Ecuación</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2813"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="540"
+         y="690"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2787"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Eqn1</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="702"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2789"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Sab=Volt_AB.v*conj(Amp_AB.i)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="714"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2791"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Sca=Volt_CA.v*conj(Amp_CA.i)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="726"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2793"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Sbc=Volt_BC.v*conj(Amp_BC.i)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="738"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2795"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Strif=Sab+Sbc+Sca</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="750"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2797"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Pab=real(Sab)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="762"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2799"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Pbc=real(Sbc)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="774"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2801"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Pca=real(Sca)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="786"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2803"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Qab=imag(Sab)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="798"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2805"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Qbc=imag(Sbc)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="810"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2807"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Qca=imag(Sca)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="822"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2809"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Ptrif=real(Strif)</text>
+      <text
+         xml:space="preserve"
+         x="540"
+         y="834"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2811"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Qtrif=real(Strif)</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2875"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="45,275 45,315 "
+         id="polyline2815"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,275 145,275 "
+         id="polyline2817"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="245,275 245,315 "
+         id="polyline2819"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="145,275 245,275 "
+         id="polyline2821"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="145,235 145,275 "
+         id="polyline2823"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="245,375 245,475 "
+         id="polyline2825"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="245,475 305,475 "
+         id="polyline2827"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,375 45,575 "
+         id="polyline2829"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="45,575 305,575 "
+         id="polyline2831"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,475 515,475 "
+         id="polyline2833"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,575 865,575 "
+         id="polyline2835"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,475 865,575 "
+         id="polyline2837"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="805,475 865,475 "
+         id="polyline2839"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,415 515,475 "
+         id="polyline2841"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,415 865,475 "
+         id="polyline2843"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="685,155 865,155 "
+         id="polyline2845"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,155 865,175 "
+         id="polyline2847"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,155 685,155 "
+         id="polyline2849"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,155 515,175 "
+         id="polyline2851"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="685,115 685,155 "
+         id="polyline2853"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="365,115 685,115 "
+         id="polyline2855"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="145,115 145,175 "
+         id="polyline2857"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="145,115 305,115 "
+         id="polyline2859"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="725,475 745,475 "
+         id="polyline2861"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="625,475 665,475 "
+         id="polyline2863"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,475 565,475 "
+         id="polyline2865"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,235 515,275 "
+         id="polyline2867"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="515,335 515,355 "
+         id="polyline2869"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,235 865,255 "
+         id="polyline2871"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="865,315 865,355 "
+         id="polyline2873"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2879"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 148,275 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3"
+         id="path2877"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2883"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 303,473 h 4 v 4 h -4 v -4"
+         id="path2881"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2887"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 363,473 h 4 v 4 h -4 v -4"
+         id="path2885"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2891"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 303,573 h 4 v 4 h -4 v -4"
+         id="path2889"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2895"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 363,573 h 4 v 4 h -4 v -4"
+         id="path2893"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2899"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,413 h 4 v 4 h -4 v -4"
+         id="path2897"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2903"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,353 h 4 v 4 h -4 v -4"
+         id="path2901"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2907"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,173 h 4 v 4 h -4 v -4"
+         id="path2905"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2911"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,233 h 4 v 4 h -4 v -4"
+         id="path2909"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2915"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 303,113 h 4 v 4 h -4 v -4"
+         id="path2913"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2919"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 363,113 h 4 v 4 h -4 v -4"
+         id="path2917"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2923"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 563,473 h 4 v 4 h -4 v -4"
+         id="path2921"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2927"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 623,473 h 4 v 4 h -4 v -4"
+         id="path2925"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2931"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 53,711 h 4 v 4 h -4 v -4"
+         id="path2929"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2935"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="25"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2933"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">a</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2943"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="35,723 32,723 "
+         id="polyline2937"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="35,723 35,734 "
+         id="polyline2939"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="55,713 35,723 "
+         id="polyline2941"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2947"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 73,711 h 4 v 4 h -4 v -4"
+         id="path2945"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2951"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="95"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2949"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">b</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2959"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="92,723 95,723 "
+         id="polyline2953"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="92,723 92,734 "
+         id="polyline2955"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="75,713 92,723 "
+         id="polyline2957"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2963"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 173,713 h 4 v 4 h -4 v -4"
+         id="path2961"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2967"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="145"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2965"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">b</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2975"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="155,723 152,723 "
+         id="polyline2969"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="155,723 155,734 "
+         id="polyline2971"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="175,715 155,723 "
+         id="polyline2973"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2979"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 193,713 h 4 v 4 h -4 v -4"
+         id="path2977"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2983"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="215"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2981"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">c</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2991"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="212,723 214,723 "
+         id="polyline2985"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="212,723 212,734 "
+         id="polyline2987"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="195,715 212,723 "
+         id="polyline2989"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2995"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 293,713 h 4 v 4 h -4 v -4"
+         id="path2993"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g2999"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="265"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text2997"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">c</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3007"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="273,723 271,723 "
+         id="polyline3001"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="273,723 273,734 "
+         id="polyline3003"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="295,715 273,723 "
+         id="polyline3005"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3011"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 313,713 h 4 v 4 h -4 v -4"
+         id="path3009"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3015"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="335"
+         y="734"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text3013"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">a</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3023"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="332,723 335,723 "
+         id="polyline3017"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="332,723 332,734 "
+         id="polyline3019"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="315,715 332,723 "
+         id="polyline3021"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3027"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 143,173 h 4 v 4 h -4 v -4"
+         id="path3025"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3031"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="175"
+         y="154"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text3029"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">a</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3039"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="172,157 175,157 "
+         id="polyline3033"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="172,157 172,146 "
+         id="polyline3035"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="145,175 172,157 "
+         id="polyline3037"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3043"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 143,233 h 4 v 4 h -4 v -4"
+         id="path3041"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3047"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 243,373 h 4 v 4 h -4 v -4"
+         id="path3045"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3051"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="275"
+         y="404"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text3049"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">b</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3059"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="272,393 275,393 "
+         id="polyline3053"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="272,393 272,404 "
+         id="polyline3055"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="245,375 272,393 "
+         id="polyline3057"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3063"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 243,313 h 4 v 4 h -4 v -4"
+         id="path3061"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3067"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 43,373 h 4 v 4 h -4 v -4"
+         id="path3065"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3071"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="75"
+         y="404"
+         font-size="10"
+         font-weight="400"
+         font-style="normal"
+         id="text3069"
+         style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">c</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3079"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <polyline
+         points="72,393 74,393 "
+         id="polyline3073"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="72,393 72,404 "
+         id="polyline3075"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="45,375 72,393 "
+         id="polyline3077"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3083"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 43,313 h 4 v 4 h -4 v -4"
+         id="path3081"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3087"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,333 h 4 v 4 h -4 v -4"
+         id="path3085"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3091"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,273 h 4 v 4 h -4 v -4"
+         id="path3089"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3095"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,313 h 4 v 4 h -4 v -4"
+         id="path3093"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3099"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,253 h 4 v 4 h -4 v -4"
+         id="path3097"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3103"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 723,473 h 4 v 4 h -4 v -4"
+         id="path3101"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3107"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 663,473 h 4 v 4 h -4 v -4"
+         id="path3105"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3111"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 803,473 h 4 v 4 h -4 v -4"
+         id="path3109"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3115"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 743,473 h 4 v 4 h -4 v -4"
+         id="path3113"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3119"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,413 h 4 v 4 h -4 v -4"
+         id="path3117"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3123"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 513,353 h 4 v 4 h -4 v -4"
+         id="path3121"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3127"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,233 h 4 v 4 h -4 v -4"
+         id="path3125"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3131"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         d="m 863,173 h 4 v 4 h -4 v -4"
+         id="path3129"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3135"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 518,475 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3"
+         id="path3133"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3139"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 868,475 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3"
+         id="path3137"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3143"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="m 688,155 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3"
+         id="path3141"
+         inkscape:connector-curvature="0"
+         style="vector-effect:none;fill-rule:evenodd" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3149"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1">
+      <path
+         d="M 645,415 H 845 V 525 H 645 V 415"
+         id="path3145"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+      <path
+         d="M 805,165 H 975 V 335 H 805 V 165"
+         id="path3147"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       transform="translate(535,595)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3157"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3151"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Conexion estrella-delta balanceada (Y-</text>
+      <text
+         xml:space="preserve"
+         x="231.578"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3153"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">Δ</text>
+      <text
+         xml:space="preserve"
+         x="239.78101"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3155"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">)</text>
+    </g>
+    <g
+       transform="translate(505,485)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3165"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#00007f;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3163"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#00007f;fill-opacity:1;stroke:none">b</text>
+    </g>
+    <g
+       transform="translate(875,485)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3173"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#00007f;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3171"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#00007f;fill-opacity:1;stroke:none">c</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3179"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1">
+      <path
+         d="M 465,255 H 625 V 435 H 465 V 255"
+         id="path3177"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+    <g
+       transform="rotate(90,105,390)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3183"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3181"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Z</text>
+    </g>
+    <g
+       transform="rotate(90,105,390)"
+       font-size="9.6"
+       font-weight="400"
+       font-style="normal"
+       id="g3187"
+       style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="9.21875"
+         y="16.1875"
+         font-size="9.6"
+         font-weight="400"
+         font-style="normal"
+         id="text3185"
+         style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Δ</text>
+    </g>
+    <g
+       transform="rotate(90,105,390)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3193"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="17.0469"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3189"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none"> = 15+j15 </text>
+      <text
+         xml:space="preserve"
+         x="82.406197"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3191"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Ω</text>
+    </g>
+    <g
+       transform="translate(685,495)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3201"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3199"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Z</text>
+    </g>
+    <g
+       transform="translate(685,495)"
+       font-size="9.6"
+       font-weight="400"
+       font-style="normal"
+       id="g3205"
+       style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="9.21875"
+         y="16.1875"
+         font-size="9.6"
+         font-weight="400"
+         font-style="normal"
+         id="text3203"
+         style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Δ</text>
+    </g>
+    <g
+       transform="translate(685,495)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3211"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="17.0469"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3207"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none"> = 15+j15 </text>
+      <text
+         xml:space="preserve"
+         x="82.406197"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3209"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Ω</text>
+    </g>
+    <g
+       transform="rotate(90,325,520)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3219"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3217"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Z</text>
+    </g>
+    <g
+       transform="rotate(90,325,520)"
+       font-size="9.6"
+       font-weight="400"
+       font-style="normal"
+       id="g3223"
+       style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="9.21875"
+         y="16.1875"
+         font-size="9.6"
+         font-weight="400"
+         font-style="normal"
+         id="text3221"
+         style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Δ</text>
+    </g>
+    <g
+       transform="rotate(90,325,520)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3229"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="17.0469"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3225"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none"> = 15+j15 </text>
+      <text
+         xml:space="preserve"
+         x="82.406197"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3227"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#ff0000;fill-opacity:1;stroke:none">Ω</text>
+    </g>
+    <g
+       transform="translate(685,165)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3237"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#00007f;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3235"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#00007f;fill-opacity:1;stroke:none">a</text>
+    </g>
+    <g
+       transform="translate(15,15)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3245"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3243"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">TP4 complemanetario ejercicio A</text>
+    </g>
+    <g
+       transform="translate(25,805)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3253"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3251"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L = X</text>
+    </g>
+    <g
+       transform="translate(25,805)"
+       font-size="9.6"
+       font-weight="400"
+       font-style="normal"
+       id="g3257"
+       style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="33.5625"
+         y="16.1875"
+         font-size="9.6"
+         font-weight="400"
+         font-style="normal"
+         id="text3255"
+         style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L</text>
+    </g>
+    <g
+       transform="translate(25,805)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3269"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="40.125"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3259"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">/(2 </text>
+      <text
+         xml:space="preserve"
+         x="60.265598"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3261"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">π</text>
+      <text
+         xml:space="preserve"
+         x="67.484398"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3263"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"> f) = 4/(2 </text>
+      <text
+         xml:space="preserve"
+         x="125.625"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3265"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">π</text>
+      <text
+         xml:space="preserve"
+         x="132.84399"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3267"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"> 50)</text>
+    </g>
+    <g
+       transform="translate(25,765)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3277"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3275"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">X</text>
+    </g>
+    <g
+       transform="translate(25,765)"
+       font-size="9.6"
+       font-weight="400"
+       font-style="normal"
+       id="g3281"
+       style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="9.21875"
+         y="16.1875"
+         font-size="9.6"
+         font-weight="400"
+         font-style="normal"
+         id="text3279"
+         style="font-style:normal;font-weight:400;font-size:9.60000038px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L</text>
+    </g>
+    <g
+       transform="translate(25,765)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3293"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="15.7812"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3283"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"> = </text>
+      <text
+         xml:space="preserve"
+         x="33.453098"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3285"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">ω</text>
+      <text
+         xml:space="preserve"
+         x="43.5"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3287"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"> L = 2 </text>
+      <text
+         xml:space="preserve"
+         x="83.093803"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3289"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">π</text>
+      <text
+         xml:space="preserve"
+         x="90.3125"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3291"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"> f L</text>
+    </g>
+    <g
+       transform="translate(25,845)"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g3301"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="11"
+         font-size="12"
+         font-weight="400"
+         font-style="normal"
+         id="text3299"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">L = 47,746 mH</text>
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g3307"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:'DejaVu Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <path
+         d="M 5,-5 H 295 V 55 H 5 V -5"
+         id="path3305"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+    </g>
+  </g>
+</svg>

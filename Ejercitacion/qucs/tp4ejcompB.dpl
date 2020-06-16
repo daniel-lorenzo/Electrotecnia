@@ -1,0 +1,74 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1048,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=tp4ejcompB.dat>
+  <DataDisplay=tp4ejcompB.sch>
+  <OpenDisplay=1>
+  <Script=tp4ejcompB.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Dibujado por:>
+  <FrameText2=Fecha:>
+  <FrameText3=Revisión:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 70 123 401 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Volt_AB.v" #0000ff 0 3 1 0 0>
+	<"Volt_BC.v" #0000ff 0 3 1 0 0>
+	<"Volt_CA.v" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Tab 70 220 400 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Amp_A.i" #0000ff 0 3 1 0 0>
+	<"Amp_B.i" #0000ff 0 4 1 0 0>
+	<"Amp_C.i" #0000ff 0 4 1 0 0>
+  </Tab>
+  <Tab 70 400 440 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Pa" #0000ff 0 4 1 0 0>
+	<"Pb" #0000ff 0 4 1 0 0>
+	<"Pc" #0000ff 0 4 1 0 0>
+	<"Qa" #0000ff 0 3 0 0 0>
+	<"Qb" #0000ff 0 3 0 0 0>
+	<"Qc" #0000ff 0 3 0 0 0>
+  </Tab>
+  <Tab 70 317 439 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Sa" #0000ff 0 4 1 0 0>
+	<"Sb" #0000ff 0 4 1 0 0>
+	<"Sc" #0000ff 0 4 1 0 0>
+  </Tab>
+  <Tab 70 500 441 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Strif" #0000ff 0 5 1 0 0>
+	<"Ptrif" #0000ff 0 5 1 0 0>
+	<"Qtrif" #0000ff 0 5 1 0 0>
+  </Tab>
+  <Tab 610 314 398 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Uao.v" #0000ff 0 3 1 0 0>
+	<"Ubo.v" #0000ff 0 4 1 0 0>
+	<"Uco.v" #0000ff 0 4 1 0 0>
+  </Tab>
+  <Tab 611 403 268 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Von.v" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Tab 610 499 267 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Irpat.i" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+  <Text 70 20 14 #000000 0 "Resultados:">
+  <Text 70 50 12 #000000 0 "Tensiones de linea">
+  <Text 70 150 12 #000000 0 "Corrientes de fase">
+  <Text 70 430 12 #000000 0 "Potencias trifasicas">
+  <Text 70 240 12 #000000 0 "Potencias">
+  <Text 170 330 12 #000000 0 "activa (W)">
+  <Text 320 330 12 #000000 0 "reactiva (VAr)">
+  <Text 610 330 12 #000000 0 "Tension de neutro Von">
+  <Text 610 430 12 #000000 0 "Corriente resist. puesta a tierra">
+  <Text 610 240 12 #000000 0 "Tensiones de carga">
+</Paintings>
