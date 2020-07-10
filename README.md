@@ -51,3 +51,4 @@ Se ofrece libremente, sin garantía.
 ## Bibliografía
 * Principios de circuitos eléctricos, 3ra. edición. McGraw-Hill - Alexander - Sadiku
 * Introducción al análisis de circuitos 12da. edición. Pearson - Boylestad
+* Máquinas Eléctricas, 5ta. edición. McGraw-Hill - Stephen J. Chapman
