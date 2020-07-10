@@ -25,7 +25,8 @@ Se ofrece libremente, sin garantía.
 * [TP5 - Circuitos trifásicos - Ejercicios complementarios](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5ejcomp-s.ipynb)       
 * [Transformador - modelo 2do parcial](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/Transformador_mp.ipynb)            
 * [Transformador - ejercicios para practicar](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/Transf_ejerc_practica.ipynb)            
-* [Transformador monofásico - ejemplo](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/trmf.ipynb)           
+* [Transformador monofásico - ejemplo](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/practica2/trmf.ipynb)           
+* [2do_parcial_tema_A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/2do_parc_tema_A.ipynb)            
 
 
 ### Ejercicios y ejemplos de libros:
