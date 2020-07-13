@@ -19,7 +19,7 @@ Se ofrece libremente, sin garantía.
 * [TP4 - Potencia - Ejercicios de entrega](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP4entrega.ipynb)
 * [Modelo de 1er parcial 1](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/parcial_1modelo.ipynb)
 * [Modelo de 1er parcial 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/pm1.ipynb)
-* [1er parcial tema A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/1parc_temaA.ipynb)
+* [1er parcial tema A](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/1parc_tema_A.ipynb)
 * [TP5 - Circuitos trifásicos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5.ipynb)     
 * [TP5 - Circuitos trifásicos (Python only)](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5-2.ipynb)
 * [TP5 - Circuitos trifásicos - Ejercicios complementarios](https://nbviewer.jupyter.org/github/daniel-lorenzo/Electrotecnia/blob/master/Ejercitacion/TP5ejcomp-s.ipynb)       
